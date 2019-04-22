@@ -3,10 +3,10 @@ Flatiron School Mod 2 Project - Linear Regression - Predict number of runs a tea
 <br><br>
 <h2><b>Project goals: </b> run linear regression model to try to predict number of runs that a MLB team will score in a season using yearly team hitting statistics.<br></h2>
 The data used for this project came from baseball-reference.com. The initial dataframe consisted of each team's seasonal hitting statistics from 1990-2018 (excluding 1994-1995 due to MLB strike). Data was split into 2 groups: 1990-2017 and 2018 for testing.<br>
-Preview of Dataframe: (INSERT PICTURE OF DF HERE)<br>
+Preview of Dataframe: INSERT DF<br>
 
 Columns include: 'Team', 'W', 'L', 'W/L', 'GB', 'Abv', 'Num_Hitters', 'BatAge', 'R/G', 'G', 'PA', 'AB', 'R', 'H', 'Doubles', 'Triples', 'HR', 'RBI', 'SB', 'CS', 'BB', 'SO', 'BA', 'OBP', 'SLG', 'OPS', 'OPS_Plus', 'TB', 'GDP', 'HBP', 'SH', 'SF', 'IBB', 'LOB', 'Year', 'H/G', 'Extra_Base_Hits', 'BABIP', 'OBP_times_SLG', 'Age_of_Hitters'<br>
-Target Variable: Runs in a season<br>
+Target Variable: Runs in a season<br><br>
 Independent Variables: PA, LOB, OBP, OBP_times_SLG (interaction variable created)<br>
 Model: R ~ PA + LOB + OBP + OBP_times_SLG<br>
 
