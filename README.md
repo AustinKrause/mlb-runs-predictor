@@ -45,6 +45,6 @@ Ha: The mean runs for NYY > the mean runs for of all of MLB<br>
   <b>With a z score of .95 we fail to reject the null hypothesis that the New York Yankees significantly score more runs than the rest of the MLB</li><br><br>
 
 <li><h2>Conclusion</h2><br>
-After obtaining the data and my initial EDA, it seems that the most valuable hitting statistics for predicting runs scored per season are Plate Appearances, Left On Base, On Base Percentage, and On Base x Slugging Percentage. These variables together account for 96% of the variance in runs scored per season within the dataset. Going forward, I would like to test this model on future seasons as well as turn my focus toward the target variable of Wins per season. 
+After obtaining the data and doing my initial EDA, it seems that the most valuable hitting statistics for predicting runs scored per season are Plate Appearances, Left On Base, On Base Percentage, and On Base x Slugging Percentage. These variables together account for 96% of the variance in runs scored per season within the dataset. Going forward, I would like to test this model on future seasons as well as turn my focus toward the target variable of wins per season. 
   </li>
 </ul>
