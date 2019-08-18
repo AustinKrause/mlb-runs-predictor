@@ -32,7 +32,7 @@ Interpretation of Coeffitients: <ul><li>Intercept: -1867.7977</li>
 The residual plot looks to be normally distributed.</li>
 
 <li><h2><b> TEST MODEL ON STATS FROM 2018:</h2><br>
-2018 predicted values using regression model:<br>
+2018 predicted values using linear regression model:<br>
 <img src='Images/2018_Predicted_Vals.png'><br>
   <img src='Images/2018_RMSE.png'><br>
   As seen above, the average error for each prediction is about 17 runs per season. Comparing this to the mean runs scored in 2018, we get an average error of about 2.45%</li>
