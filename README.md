@@ -35,7 +35,7 @@ The residual plot looks to be normally distributed.</li>
 2018 predicted values using linear regression model:<br>
 <img src='Images/2018_Predicted_Vals.png'><br>
   <img src='Images/2018_RMSE.png'><br>
-  As seen above, the average error for each prediction is about 17 runs per season. Comparing this to the mean runs scored in 2018, we get an average error of about 2.45%</li>
+  As seen above, the average error for each prediction is about 17 runs per season. Comparing this to the mean runs scored in 2018, we get an average error of about 2.45%.</li>
 
 <li><h2>Hypothesis Test:</h2><br>
 The New York Yankees have won the most World Series Championships within the span of 1990-2018 (5). Let's look into how they match up to the rest of the MLB in terms of runs scored.<br><br>
